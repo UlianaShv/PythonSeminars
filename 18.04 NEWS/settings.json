@@ -1,0 +1,11 @@
+{
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true,
+    "files.exclude": {
+        "": true
+    },
+    "terminal.integrated.allowInUntrustedWorkspace": true,
+    "files.autoSaveWorkspaceFilesOnly": true,
+    "python.analysis.typeEvaluation.strictDictionaryInference": true,
+    "files.autoSaveWhenNoErrors": true
+}
